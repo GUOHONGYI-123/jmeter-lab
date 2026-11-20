@@ -1,0 +1,26 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1795184784010,992,A_home,200,OK,UserBookFlight 1-1,text,true,,4757,118,2,2,https://blazedemo.com/,980,0,343
+1795184785790,378,A_home,200,OK,UserBookFlight 1-2,text,true,,4757,118,3,3,https://blazedemo.com/,375,0,56
+1795184785554,672,A_home,200,OK,UserBookFlight 1-3,text,true,,4757,118,4,4,https://blazedemo.com/,665,0,157
+1795184786190,351,B_reserve,200,OK,UserBookFlight 1-1,text,true,,7245,248,4,4,https://blazedemo.com/reserve.php,345,0,0
+1795184787036,380,B_reserve,200,OK,UserBookFlight 1-3,text,true,,7245,248,5,5,https://blazedemo.com/reserve.php,377,0,0
+1795184787232,436,A_home,200,OK,UserBookFlight 1-4,text,true,,4757,118,5,5,https://blazedemo.com/,431,0,22
+1795184787411,364,B_reserve,200,OK,UserBookFlight 1-2,text,true,,7245,248,5,5,https://blazedemo.com/reserve.php,359,0,0
+1795184787535,580,C_purchase,200,OK,UserBookFlight 1-1,text,true,,6715,322,5,5,https://blazedemo.com/purchase.php,564,0,0
+1795184788500,390,A_home,200,OK,UserBookFlight 1-5,text,true,,4757,118,5,5,https://blazedemo.com/,389,0,28
+1795184788697,388,D_confirmed,200,OK,UserBookFlight 1-1,text,true,,5780,404,5,5,https://blazedemo.com/confirmation.php,384,0,0
+1795184783212,2311,Book_Flight,200,"Number of samples in transaction : 4, number of failing samples : 0",UserBookFlight 1-1,,true,,24497,1092,5,5,null,2273,3567,343
+1795184788739,353,C_purchase,200,OK,UserBookFlight 1-2,text,true,,6715,322,5,5,https://blazedemo.com/purchase.php,342,0,0
+1795184788829,355,B_reserve,200,OK,UserBookFlight 1-4,text,true,,7245,248,4,4,https://blazedemo.com/reserve.php,352,0,0
+1795184788815,577,C_purchase,200,OK,UserBookFlight 1-3,text,true,,6715,322,4,4,https://blazedemo.com/purchase.php,572,0,0
+1795184789666,307,B_reserve,200,OK,UserBookFlight 1-5,text,true,,7245,248,4,4,https://blazedemo.com/reserve.php,306,0,0
+1795184790474,357,D_confirmed,200,OK,UserBookFlight 1-3,text,true,,5780,404,4,4,https://blazedemo.com/confirmation.php,355,0,0
+1795184785202,1986,Book_Flight,200,"Number of samples in transaction : 4, number of failing samples : 0",UserBookFlight 1-3,,true,,24497,1092,4,4,null,1969,3645,157
+1795184790354,495,D_confirmed,200,OK,UserBookFlight 1-2,text,true,,5780,404,3,3,https://blazedemo.com/confirmation.php,494,0,0
+1795184784205,1590,Book_Flight,200,"Number of samples in transaction : 4, number of failing samples : 0",UserBookFlight 1-2,,true,,24497,1092,3,3,null,1570,5054,56
+1795184790413,445,C_purchase,200,OK,UserBookFlight 1-4,text,true,,6715,322,2,2,https://blazedemo.com/purchase.php,440,0,0
+1795184790818,432,C_purchase,200,OK,UserBookFlight 1-5,text,true,,6715,322,2,2,https://blazedemo.com/purchase.php,431,0,0
+1795184791816,504,D_confirmed,200,OK,UserBookFlight 1-4,text,true,,5780,404,2,2,https://blazedemo.com/confirmation.php,497,0,0
+1795184786203,1740,Book_Flight,200,"Number of samples in transaction : 4, number of failing samples : 0",UserBookFlight 1-4,,true,,24497,1092,2,2,null,1720,4377,22
+1795184792774,492,D_confirmed,200,OK,UserBookFlight 1-5,text,true,,5780,404,1,1,https://blazedemo.com/confirmation.php,492,0,0
+1795184787201,1621,Book_Flight,200,"Number of samples in transaction : 4, number of failing samples : 0",UserBookFlight 1-5,,true,,24497,1092,1,1,null,1618,4445,28
